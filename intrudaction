@@ -1,0 +1,12 @@
+https://www.w3schools.com/js/js_arithmetic.asp
+https://www.w3schools.com/js/js_if_else.asp
+
+
+for(var i =0; i <11;i++){
+console.log(i);
+}
+
+var counter = 0;
+while(counter <11){
+console.log(counter);
+counter++}
